@@ -32,3 +32,4 @@ Quiz:
 Extended Reading:
 - Royal Institution - Chaos theory and geometry with Tim Palmer (https://www.youtube.com/watch?v=RkiEV47KPX4)
 - Popular Science/Historical Essay (https://philosophy.institute/philosophy-of-technology/evolution-chaos-theory-history/)
+- For fun, trisolarians wink wink... https://trisolarchaos.com
