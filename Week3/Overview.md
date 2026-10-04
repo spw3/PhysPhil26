@@ -31,5 +31,7 @@ Quiz:
 
 Extended Reading:
 - Royal Institution - Chaos theory and geometry with Tim Palmer (https://www.youtube.com/watch?v=RkiEV47KPX4)
+- Applications of chaos theory (https://forum.effectivealtruism.org/posts/g2jcWYfrMFTNnEnnK/quick-look-applications-of-chaos-theory)
 - Popular Science/Historical Essay (https://philosophy.institute/philosophy-of-technology/evolution-chaos-theory-history/)
 - For fun, trisolarians wink wink... https://trisolarchaos.com
+- Complete pop-sci, reads like chatGPT slop (https://dobrepanstwo.org/szkatulka-kosztownosci/teoria-chaosu-matematyka-filozofia-granice-przewidywalnosci?lang=en)
