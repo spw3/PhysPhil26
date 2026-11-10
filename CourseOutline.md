@@ -12,4 +12,6 @@ Week 3: Chaotic Systems and the difference between determinism and predictabilit
 
 Week 4: Philosophy of Probability (Bayesian statistics vs Frequentist statistics)
 
-Week 5: Quantum Mechanics (???)
+Week 5: Halloween Special (Of Monsters and Demons)
+
+Week 6: The Quantum World (The Problems and Interpretations of Quantum Mechanics)
